@@ -24,6 +24,6 @@
         android:textColor="@color/black_o80"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/image"
+        app:layout_constraintTop_toBottomOf="@id/aboutIv"
         tools:text="@tools:sample/lorem" />
 </androidx.constraintlayout.widget.ConstraintLayout>
