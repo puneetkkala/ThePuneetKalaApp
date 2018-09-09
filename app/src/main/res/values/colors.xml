@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/black_o80</color>
+    <color name="colorPrimaryDark">@color/z_black</color>
+    <color name="colorAccent">@color/white_o80</color>
+    <color name="white_o20">#33ffffff</color>
+    <color name="white_o80">#bbffffff</color>
+    <color name="black_o80">#bb000000</color>
+    <color name="z_black">#000000</color>
+    <color name="blue_1">#324472</color>
+    <color name="blue_2">#2693a1</color>
+    <color name="yellow_1">#efa517</color>
+    <color name="orange_1">#e86d1f</color>
+    <color name="red_1">#a41410</color>
+</resources>

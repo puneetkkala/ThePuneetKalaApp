@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Puneet Kala App</string>
+    <string name="kala">Kala</string>
+    <string name="about">About</string>
+    <string name="experience">Experience</string>
+    <string name="feed">Feed</string>
+    <string name="skills">Skills</string>
+    <string name="contact">Contact</string>
+</resources>
